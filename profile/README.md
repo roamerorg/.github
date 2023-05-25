@@ -28,4 +28,4 @@ With Bloop, you can enjoy an immersive reading experience while engaging directl
 
 Join our Bloop <a href="https://discord.gg/5Ru2mrXv">Discord</a> community, where you can chat with the community and also ask any questions.
 
-Learn more about Bloop, and Open Source Contribution in it by subscribing to ibilalkayy on <a href="http://youtube.com/eddiejaoude">YouTube</a>
+Learn more about Bloop, and Open Source Contribution in it by subscribing to ibilalkayy on <a href="http://youtube.com/eddiejaoude">YouTube</a>.
