@@ -13,7 +13,7 @@ With Bloop, you can enjoy an immersive reading experience while engaging directl
 <h2>Steps to get started</h2>
 
 <ol>
-    <li><b>Sign Up:</b> Visit the <a href="www.bloop.gg">Bloop website</a>. Click on <b>'Get Started'</b> button to create a new account. You'll need to provide some basic information, like your name, email address, and create a password. </li>
+    <li><b>Sign Up:</b> Visit the <a href="www.bloop.gg" target=”_blank”>Bloop website</a>. Click on <b>'Get Started'</b> button to create a new account. You'll need to provide some basic information, like your name, email address, and create a password. </li>
 
 <li><b>Choose a Subscription:</b> After signing up, browse through the different subscription options offered by Bloop. Choose the one that best fits your reading preferences and budget. </li>
 
