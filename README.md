@@ -2,7 +2,7 @@
 
 # **Connect Readers with Writers**
 
-<img src="https://github.com/Bloopdotgg/.github/assets/64713734/626865d8-0989-4f91-8c10-d9843535e623" alt="bloop-logo" width="400"> </n>
+<img src="https://github.com/blooporg/.github-private/assets/64713734/2b476421-d11c-42b7-ba75-7c4bf275804a" alt="bloop-logo" width="400"> </n>
 
 <h1> Welcome to Bloop </h1>
 
