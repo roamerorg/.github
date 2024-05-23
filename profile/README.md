@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1> Explore, Discover and Earn with Roamer !</h1>
+  <h1> Explore, Discover, and Earn with Roamer!</h1>
 
   <img src="https://github.com/ibilalkayy/flow/assets/64713734/6834f127-628a-4376-a1e0-8ef0b174db5b" alt="bloop-logo" width="400"> </n>
   
