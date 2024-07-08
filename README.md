@@ -7,5 +7,5 @@
    <p> Roamer is a place where I build projects that focuses on solving actual problems and making money from them. The projects will be open source and anyone can contribute to them. It's a hub for practical solutions and income generation, like Bloop, that transforms how we read or other projects that will also be a part of it.
    </p>
 
-   <p> Join the Roamer <a href="https://linktr.ee/ibilalkayy"> Discord server and other social channels </a> where you can chat with me and other community members! </p>
+   <p> Join the Roamer <a href="https://roamer.cafe"> Discord server and other social channels </a> where you can chat with me and other community members! </p>
  </div>
