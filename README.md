@@ -1,10 +1,11 @@
 <div align="center">
+  
+  <h1> Explore, Discover, and Earn with Roamer!</h1>
 
-# **Connect Readers with Writers**
+  <img src="https://github.com/ibilalkayy/flow/assets/64713734/6834f127-628a-4376-a1e0-8ef0b174db5b" alt="bloop-logo" width="400"> </n>
+  
+   <p> Roamer is a place where I build projects that focuses on solving actual problems and making money from them. The projects will be open source and anyone can contribute to them. It's a hub for practical solutions and income generation, like Bloop, that transforms how we read or other projects that will also be a part of it.
+   </p>
 
-<img src="https://github.com/blooporg/.github-private/assets/64713734/2b476421-d11c-42b7-ba75-7c4bf275804a" alt="bloop-logo" width="400"> </n>
-
-<h1> Welcome to Bloop </h1>
-
-<p> A unique subscription-based platform that is redefining the author-reader relationship. Dive into various versions of books, engage in mentorship sessions with your favorite authors, and immerse yourself in a thriving community of book lovers. Bloop bridges the gap between creators and consumers, offering a rich and immersive literary journey like no other. Join us and revolutionize your reading experience with Bloop! </p>
+   <p> Join the Roamer <a href="https://linktr.ee/ibilalkayy"> Discord server and other social channels </a> where you can chat with me and other community members! </p>
  </div>
